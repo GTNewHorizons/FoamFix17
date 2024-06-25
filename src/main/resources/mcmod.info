@@ -12,10 +12,6 @@
     "credits": "CuleGooner, Forge, Mojang, jonathan2520",
     "logoFile": "",
     "screenshots": [],
-    "parent": "",
-    "requiredMods": [],
-    "dependencies": [],
-    "dependants": [],
-    "useDependencyInformation": "true"
+    "parent": ""
   }]
 }
